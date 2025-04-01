@@ -1,1 +1,1 @@
-# collaborative-ideas-platform-
+# Collaborative Ideas Platform
